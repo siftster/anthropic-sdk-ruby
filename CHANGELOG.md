@@ -1,5 +1,28 @@
 # Changelog
 
+## 1.24.0 (2026-03-04)
+
+Full Changelog: [v1.23.0...v1.24.0](https://github.com/anthropics/anthropic-sdk-ruby/compare/v1.23.0...v1.24.0)
+
+### Features
+
+* **tests:** update mock server ([2312be3](https://github.com/anthropics/anthropic-sdk-ruby/commit/2312be3b2f0f9846d70fa5ee7264463452349e21))
+
+
+### Bug Fixes
+
+* properly mock time in ruby ci tests ([a56c1fe](https://github.com/anthropics/anthropic-sdk-ruby/commit/a56c1fe2bb14d1238855c41c791d69b44904f691))
+
+
+### Chores
+
+* **internal:** codegen related update ([b77acd4](https://github.com/anthropics/anthropic-sdk-ruby/commit/b77acd489387413cda40134f6a9463dfe850c71d))
+
+
+### Documentation
+
+* streamline README, centralize documentation at docs.anthropic.com ([396688b](https://github.com/anthropics/anthropic-sdk-ruby/commit/396688b823bf08690714c4f42160b4aa20d86880))
+
 ## 1.23.0 (2026-02-19)
 
 Full Changelog: [v1.22.0...v1.23.0](https://github.com/anthropics/anthropic-sdk-ruby/compare/v1.22.0...v1.23.0)
